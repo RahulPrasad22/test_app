@@ -1,0 +1,73 @@
+    1  git config --list
+    2  git add f3.text
+    3  git add f3.txt
+    4  git status
+    5  pwd
+    6  mkdir test_app
+    7  cd test_app/
+    8  pwd
+    9  mkdir f1.py f2.sql f3.txt
+   10  git init
+   11  ls -a
+   12  git config--list
+   13  git congig --list
+   14  wq
+   15  git config --list
+   16  pwd
+   17  ls
+   18  cd learnbay jupy
+   19  ls
+   20  cd 'learnbay jupy'
+   21  pwd
+   22  cd..
+   23  cd . .
+   24  cd ..
+   25  pwd
+   26  mkdir test_app
+   27  cd test_app
+   28  pwds'
+   29  pwd
+   30  d
+   31  pwd
+   32  ls
+   33  cd test_app
+   34  pwd
+   35  mkdir f1 f2 f3
+   36  rmdir f3
+   37  rmdir f2
+   38  rm - f2
+   39  rm-r f2
+   40  rm -r f2
+   41  touch f4.txt
+   42  cat f4.txt
+   43  cat f4.text
+   44  cat f4.txt
+   45  nano f4.txt
+   46  cat f4.txt
+   47  pwd
+   48  git init
+   49  ls -a
+   50  git config --list
+   51  git config --global user.name 'RahulPrasad22'
+   52  git config --global user.email 'rahulprasad2271@gmail.com'
+   53  git config --list
+   54  git remove-v
+   55  git remote -v
+   56  git remote add origin https://github.com/RahulPrasad22/test_app.git
+   57  clear
+   58  git remote -v
+   59  git status
+   60  git add f4.txt
+   61  git status
+   62  git rm __cached  f4.txt
+   63  git status
+   64  git rm --cached f4.txt
+   65  git status
+   66  git add .
+   67  git status
+   68  git commit -m 'first commit'
+   69  git branch -mmaster main
+   70  git branch -m master main
+   71  git push -f origin main
+   72  history
+   73  history >> commands.txt
